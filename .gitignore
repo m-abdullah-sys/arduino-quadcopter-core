@@ -1,0 +1,18 @@
+# Arduino IDE local build configurations and binary exports
+**/build/
+**/bin/
+.build/
+
+# Local code editor configuration maps
+.vscode/
+.idea/
+*.swp
+*.bak
+.DS_Store
+
+# Compiled object files and target binaries
+*.o
+*.a
+*.so
+*.hex
+*.elf
